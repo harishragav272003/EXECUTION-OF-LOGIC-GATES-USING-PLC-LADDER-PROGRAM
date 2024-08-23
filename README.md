@@ -95,6 +95,9 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 ## NAND GATE:
 ![Screenshot 2024-08-23 092640](https://github.com/user-attachments/assets/0f73ce07-ebde-4d78-8ef2-6ddb8862a175)
 
+## NOR GATE:
+![image](https://github.com/user-attachments/assets/b5fef986-c0fd-4057-b483-41894cc4bbb0)
+
 ## XOR GATE:
 ![Screenshot 2024-08-23 092655](https://github.com/user-attachments/assets/145ffc07-1321-4d99-95a3-e5d68430e3db)
 
