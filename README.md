@@ -49,8 +49,8 @@ Ladder Logic: An OR gate followed by a NOT gate.
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+![Screenshot 2024-08-23 092424](https://github.com/user-attachments/assets/665cc547-5373-4e67-8663-61d447656c01)
 
-![image](https://github.com/user-attachments/assets/804da3e8-ff4d-4e4a-9823-b45f0b20b1a8)
 
  
 # Procedure:
@@ -91,6 +91,12 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 ## NOT GATE 
 ![WhatsApp Image 2024-08-23 at 9 03 13 AM](https://github.com/user-attachments/assets/548fa393-ec27-44dd-b894-aaeecf765079)
+
+## NAND GATE:
+![Screenshot 2024-08-23 092640](https://github.com/user-attachments/assets/0f73ce07-ebde-4d78-8ef2-6ddb8862a175)
+
+## XOR GATE:
+![Screenshot 2024-08-23 092655](https://github.com/user-attachments/assets/145ffc07-1321-4d99-95a3-e5d68430e3db)
 
 
 
