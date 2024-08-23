@@ -19,31 +19,39 @@ Power Supply - Appropriate power supply for PLC and peripherals.
 Logic gates are the fundamental building blocks of digital circuits, and they process binary inputs to produce a binary output. In PLC programming, these logic gates can be implemented using ladder logic, which is a graphical programming language resembling electrical relay logic.
 
 # Basic Logic Gates:
-AND Gate:
+### AND Gate:
 
 Function: Outputs HIGH only when all inputs are HIGH.
 Ladder Logic: Represented by two or more normally open contacts in series.
-OR Gate:
+
+### OR Gate:
 
 Function: Outputs HIGH when at least one input is HIGH.
 Ladder Logic: Represented by two or more normally open contacts in parallel.
-NOT Gate:
+
+### NOT Gate:
 
 Function: Outputs the inverse of the input signal.
 Ladder Logic: Represented by a normally closed contact.
-NAND Gate:
+
+### NAND Gate:
 
 Function: Outputs LOW only when all inputs are HIGH.
 Ladder Logic: An AND gate followed by a NOT gate.
-NOR Gate:
+
+### NOR Gate:
 
 Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
-XOR Gate:
+
+### XOR Gate:
 
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+
+![image](https://github.com/user-attachments/assets/804da3e8-ff4d-4e4a-9823-b45f0b20b1a8)
+
  
 # Procedure:
 Setup the PLC Programming Environment:
@@ -75,8 +83,18 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 # SIMULATION RESULTS 
 
+## AND GATE
+![WhatsApp Image 2024-08-23 at 8 57 46 AM](https://github.com/user-attachments/assets/eb7890b6-6b89-4588-ba37-daacf92010e8)
 
-#Results:
+## OR GATE
+![WhatsApp Image 2024-08-23 at 8 57 46 AM (1)](https://github.com/user-attachments/assets/8e6ee554-3230-4bb5-8575-af2ec64ab177)
+
+## NOT GATE 
+![WhatsApp Image 2024-08-23 at 9 03 13 AM](https://github.com/user-attachments/assets/548fa393-ec27-44dd-b894-aaeecf765079)
+
+
+
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
